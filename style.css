@@ -1,1 +1,38 @@
 
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#facts-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.fact {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 10px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.fact h3 {
+  margin: 0 0 10px;
+  color: #007BFF;
+}
+
+.fact p {
+  margin: 0;
+  color: #555;
+}
